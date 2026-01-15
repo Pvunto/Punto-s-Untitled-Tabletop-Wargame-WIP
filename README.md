@@ -31,11 +31,10 @@ The **Power Classes** are used to make sure that every miniature in each univers
 | 3     | *AT Rifleman*            | **15cm** (6inch)     | 2                  | *5+*        | Infantry  |
 | 2     | *Assault*                | **15cm** (6inch)     | 2                  | *5+*        | Infantry  |
 | 1     | *Rifleman*               | **15cm** (6inch)     | 2                  | 5+          | Infantry  |
-More in: [[Classes Datasheet Index]]
+More in: CLASSES/Classes Datasheet Index
 
 ---
 ## Game Phases
-[[Game Scheme.canvas]]
 
 #### 1) Game Mode Extraction
 Players decide who will draw the card game mode, the player who will draw the card will be the last one to move/attack 
