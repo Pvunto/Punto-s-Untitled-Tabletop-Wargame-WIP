@@ -31,6 +31,7 @@ The **Power Classes** are used to make sure that every miniature in each univers
 | 3     | *AT Rifleman*            | **15cm** (6inch)     | 2                  | *5+*        | Infantry  |
 | 2     | *Assault*                | **15cm** (6inch)     | 2                  | *5+*        | Infantry  |
 | 1     | *Rifleman*               | **15cm** (6inch)     | 2                  | 5+          | Infantry  |
+
 More in: CLASSES/Classes Datasheet Index
 
 ---
