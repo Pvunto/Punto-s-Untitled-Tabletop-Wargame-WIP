@@ -6,10 +6,15 @@ Each part is created to allow miniatures from different universes to interact in
 Two to four players can play without any problems.
 
 ***If any rules are changed, players must be notified before the game begins.***
+
+
+
 ## Why
 This game was created to give more freedom to players, more opportunities for expansion for role-players, more opportunities and simpler rules for those who like competitive gaming, and the possibility of clashing multiple armies from multiple universes where the players decide whether to have a fair fight or a more realistic fight.
 
 ## Who am I
+
+
 
 
 ## **Required Materials**
