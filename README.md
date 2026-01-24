@@ -1,5 +1,6 @@
-# **DISCLAIMER** 
-**This repo is constantly evolving, completed or at least better organized versions are in the releases**
+> [!WARNING] 
+> This repository is constantly evolving. 
+> More complete or better-organized versions will be available in the Releases section.
 
 # Introduction
 This **Tabletop Wargame** was created to allow both experienced and novice players to participate in a simple and  **customizable**  experience. 
