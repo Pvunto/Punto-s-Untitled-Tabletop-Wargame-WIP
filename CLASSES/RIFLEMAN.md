@@ -11,8 +11,9 @@ They have mainly ranged weapons, with the ability to focus on one or more units 
 
 ### GUNS
 
-in the future
-
+| Name     | Class/Power | Range)         | Damage  | 
+| -----    | ----------  | -------------- | --------| 
+| Rifle    |  Small Arm  | 30cm (12inch)  | 2       |
 ### SPECIAL RULES
 
 they can pass through doors and windows and climb over any low walls
