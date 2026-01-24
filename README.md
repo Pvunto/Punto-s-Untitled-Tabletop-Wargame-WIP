@@ -56,7 +56,7 @@ Players decide who will draw or decide the game mode, the player who will choose
 Each player places one figure each on the table according to a round established by the players at the beginning of the game, until the players are satisfied.
 
 #### 1.2) Finishing Game Setup
-Each player draws 2 skill cards, each player will get a skill card at the end of each turn
+Each player draws 2 [skill card](Skill-Cards/Overview), each player will get a [skill card](Skill-Cards/Overview) at the end of each turn
 
 #### 2) Normal Rounds
-Each round players will move 3 units each following the turn established at the beginning of the game, Each player can play a skill card each turn, Skill cards used must be discarded in a separate stack from unused cards, Some game modes can change the players' rotation and 	the amount of players each player acquires
+Each round players will move 3 units each following the turn established at the beginning of the game, Each player can play a [skill card](Skill-Cards/Overview) each turn, [Skill card](Skill-Cards/Overview) used must be discarded in a separate stack from unused cards, Some game modes can change the players' rotation and the amount of players each player acquires
