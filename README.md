@@ -15,7 +15,7 @@ Two to four players can play without any problems.
 This game was created to give more freedom to players, more opportunities for expansion for role-players, more opportunities and simpler rules for those who like competitive gaming, and the possibility of clashing multiple armies from multiple universes where the players decide whether to have a fair fight or a more realistic fight.
 
 ## Who am I
-I'm Punto, am just an Italian student passionate about an incredible number of things, one of which is Warhammer 40K and Trench Crusade. I've always been fascinated by World War I and II, and I've always wanted a board game that would allow me to play with both universes, with simple, clear rules that are always open to expansion or change, creating a dynamic playstyle that doesn't overwhelm new players with hundreds of specialized rules right from the start.
+I'm Punto, an Italian student passionate about an incredible number of things, one of which is Warhammer 40K and Trench Crusade. I've always been fascinated by World War I and II, and I've always wanted a board game that would allow me to play with both universes, with simple, clear rules that are always open to expansion or change, creating a dynamic playstyle that doesn't overwhelm new players with hundreds of specialized rules right from the start.
 
 That said, this project is a personal thing that I'll probably share with the world one day. This repo is always evolving, but I'll create releases with PDFs of the most complete versions to make the rules and datasheets easier to read.
 
