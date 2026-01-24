@@ -49,8 +49,8 @@ More in: CLASSES/
 ---
 ## Game Phases
 
-#### 1) Game Mode Extraction
-Players decide who will draw the card game mode, the player who will draw the card will be the last one to move/attack 
+#### 1) Game Mode Decision
+Players decide who will draw or decide the game mode, the player who will choose the game mode will be the last one to move/attack 
 
 #### 1.1) Preparation
 Each player places one figure each on the table according to a round established by the players at the beginning of the game, until the players are satisfied.
