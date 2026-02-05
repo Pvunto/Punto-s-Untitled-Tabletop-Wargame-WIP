@@ -3,7 +3,7 @@ The Rifleman is the most common class among the Infantry units; it is versatile 
 They are not necessarily units that must assault the enemy front, but they can provide support to tanks and other classes that would not be very effective alone.
 They have mainly ranged weapons, with the ability to focus on one or more units at a time to maximize their attack based on needs.
 
-###DataSheet
+### DataSheet
 
 | Level | Name/Class | General Movement (M) | General Health (H) | Accuracy | Unit Type |
 | ----- | ---------- | -------------------- | ------------------ | -------- | --------- |
