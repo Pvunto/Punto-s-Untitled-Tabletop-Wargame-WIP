@@ -1,3 +1,8 @@
+## Overview
+The **Assault** is the second most common class among Infantry units. It is versatile and can be specialized to satisfy specific roles, such as automatic rifleman or machine gunner.
+It performs best when paired with other classes, but Assault units can also form an effective squad on their own. They are equipped with weapons suitable for both long-range engagements and close-quarters combat.
+
+### DATASHEET
 
 | Level | Name/Class | General Movement (M) | General Health (H) | Accuracy | Unit Type |
 | ----- | ---------- | -------------------- | ------------------ | -------- | --------- |
