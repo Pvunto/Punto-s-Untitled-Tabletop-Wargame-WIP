@@ -42,7 +42,7 @@ The **Power Classes** are used to make sure that every miniature in each univers
 | 5     | *Lieutenant*             | **15cm** (6inch)     | 2                  | 5+          | Infantry  |
 | 4     | *Sergeant*               | **15cm** (6inch)     | 2                  | 5+          | Infantry  |
 | 3     | *AT Rifleman*            | **15cm** (6inch)     | 2                  | *5+*        | Infantry  |
-| 2     | *Assault*                | **15cm** (6inch)     | 2                  | *5+*        | Infantry  |
+| 2     | [*Assault*](CLASSES&ASSAULT.md)                | **15cm** (6inch)     | 2                  | *5+*        | Infantry  |
 | 1     | [*Rifleman*](CLASSES/RIFLEMAN.md)               | **15cm** (6inch)     | 2                  | 5+          | Infantry  |
 
 More [here](CLASSES/)
