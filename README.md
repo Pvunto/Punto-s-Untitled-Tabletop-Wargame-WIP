@@ -50,6 +50,9 @@ More [here](CLASSES/)
 ---
 ## Game Phases
 
+> [!NOTE]
+> This section in WIP, that means that it can change radically.
+
 #### 1) Game Mode Decision
 Players decide who will draw or decide the game mode, the player who will choose the game mode will be the last one to move/attack 
 
