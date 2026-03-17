@@ -40,18 +40,18 @@ The **Power Classes** are used to make sure that every miniature in each univers
 
 | Level | Name/Class               | General Movement (M) | General Health (H) | Accuracy    | Unit Type |
 | ----- | ------------------------ | -------------------- | ------------------ | ----------- | --------- |
-| 12    | *Heavy Tank*             | **25cm** (10inch)    | 45                 | 5+          | Vehicle   |
-| 11    | *Medium Tank*            | **30cm** (12inch)    | 35                 | 5+          | Vehicle   |
-| 10    | *Tank Destroyer* / *SPA* | **20cm** (8inch)     | 25                 | 4+          | Vehicle   |
-| 9     | *Light Tank*             | **30cm** (12inch)    | 25                 | 4+          | Vehicle   |
-| 8     | *APC*                    | **30cm** (12inch)    | 20                 | *4+*        | Vehicle   |
-| 7     | *Transport*              | **35cm** (14inch)    | 10                 | ***/---/*** | Vehicle   |
-| 6     | *General*                | **15cm** (6inch)     | 2                  | 5+          | Infantry  |
-| 5     | *Lieutenant*             | **15cm** (6inch)     | 2                  | 5+          | Infantry  |
-| 4     | *Sergeant*               | **15cm** (6inch)     | 2                  | 5+          | Infantry  |
-| 3     | *AT Rifleman*            | **15cm** (6inch)     | 2                  | *5+*        | Infantry  |
-| 2     | [*Assault*](CLASSES/ASSAULT.md)                | **15cm** (6inch)     | 2                  | *5+*        | Infantry  |
-| 1     | [*Rifleman*](CLASSES/RIFLEMAN.md)               | **15cm** (6inch)     | 2                  | 5+          | Infantry  |
+| 12    | [*Heavy Tank*](CLASSES/HEAVY-TANK.md)                 | **25cm** (10inch)    | 45                 | 5+          | Vehicle   |
+| 11    | [*Medium Tank*](CLASSES/MEDIUM-TANK.md)               | **30cm** (12inch)    | 35                 | 5+          | Vehicle   |
+| 10    | [*Tank Destroyer* / *SPA*](CLASSES/TANK-DESTROYER.md) | **20cm** (8inch)     | 25                 | 4+          | Vehicle   |
+| 9     | [*Light Tank*](CLASSES/LIGHT-TANK.md)                 | **30cm** (12inch)    | 25                 | 4+          | Vehicle   |
+| 8     | [*APC*](CLASSES/APC.md)                               | **30cm** (12inch)    | 20                 | *4+*        | Vehicle   |
+| 7     | [*Transport*](CLASSES/TRANSPORT.md)                   | **35cm** (14inch)    | 10                 | ***/---/*** | Vehicle   |
+| 6     | [*General*](CLASSES/GENERAL.md)                       | **15cm** (6inch)     | 2                  | 5+          | Infantry  |
+| 5     | [*Lieutenant*](CLASSES/LIEUTENAT.md)                  | **15cm** (6inch)     | 2                  | 5+          | Infantry  |
+| 4     | [*Sergeant*](CLASSES/SERGEANT.md)                     | **15cm** (6inch)     | 2                  | 5+          | Infantry  |
+| 3     | [*AT Rifleman*](CLASSES/AT-RIFLEMAN.md)               | **15cm** (6inch)     | 2                  | *5+*        | Infantry  |
+| 2     | [*Assault*](CLASSES/ASSAULT.md)                       | **15cm** (6inch)     | 2                  | *5+*        | Infantry  |
+| 1     | [*Rifleman*](CLASSES/RIFLEMAN.md)                     | **15cm** (6inch)     | 2                  | 5+          | Infantry  |
 
 More [here](CLASSES/)
 
