@@ -1,3 +1,11 @@
+# To-Do:
+- [ ] have at least 3 types of game modes
+- [ ] have at least 10 Skill Cards
+- [ ] dinish models Datasheets
+- [ ] revise game setup and balance
+
+---
+
 > [!WARNING] 
 > This repository is constantly evolving. 
 > More complete or better-organized versions will be available in the Releases section.
