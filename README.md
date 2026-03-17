@@ -46,9 +46,9 @@ The **Power Classes** are used to make sure that every miniature in each univers
 | 10    | [*Tank Destroyer* / *SPA*](CLASSES/TANK-DESTROYER.md) | **20cm** (8inch)     | 25                 | 4+          | Vehicle   |
 | 9     | [*Light Tank*](CLASSES/LIGHT-TANK.md)                 | **30cm** (12inch)    | 25                 | 4+          | Vehicle   |
 | 8     | [*APC*](CLASSES/APC.md)                               | **30cm** (12inch)    | 20                 | *4+*        | Vehicle   |
-| 7     | [*Transport*](CLASSES/TRANSPORT.md)                   | **35cm** (14inch)    | 10                 | ***/---/*** | Vehicle   |
+| 7     | [*Transport*](CLASSES/TRANSPORT.md)                   | **35cm** (14inch)    | 10                 | ***none***  | Vehicle   |
 | 6     | [*General*](CLASSES/GENERAL.md)                       | **15cm** (6inch)     | 2                  | 5+          | Infantry  |
-| 5     | [*Lieutenant*](CLASSES/LIEUTENANT.md)                  | **15cm** (6inch)     | 2                  | 5+          | Infantry  |
+| 5     | [*Lieutenant*](CLASSES/LIEUTENANT.md)                 | **15cm** (6inch)     | 2                  | 5+          | Infantry  |
 | 4     | [*Sergeant*](CLASSES/SERGEANT.md)                     | **15cm** (6inch)     | 2                  | 5+          | Infantry  |
 | 3     | [*AT Rifleman*](CLASSES/AT-RIFLEMAN.md)               | **15cm** (6inch)     | 2                  | *5+*        | Infantry  |
 | 2     | [*Assault*](CLASSES/ASSAULT.md)                       | **15cm** (6inch)     | 2                  | *5+*        | Infantry  |
