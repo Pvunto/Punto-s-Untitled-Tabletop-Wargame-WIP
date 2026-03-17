@@ -34,5 +34,4 @@ a. License grant.
 
 ---
 
-Per il testo completo e aggiornato, visita:  
 https://creativecommons.org/licenses/by-sa/4.0/legalcode
