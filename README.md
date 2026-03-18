@@ -2,7 +2,7 @@
 > # To-Do:
 > - [ ] have at least 3 types of game modes
 > - [ ] have at least 10 Skill Cards (1/10)
-> - [ ] finish models Datasheets
+> - [ ] finish models Datasheets (2/12)
 > - [ ] revise game setup and balance
 
 ---
