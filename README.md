@@ -10,6 +10,8 @@
 > [!WARNING] 
 > This repository is constantly evolving. 
 > More complete or better-organized versions will be available in the Releases section.
+>
+> Current State: **Early Alpha**
 
 # Introduction
 This **Tabletop Wargame** was created to allow both experienced and novice players to participate in a simple and  **customizable**  experience. 
