@@ -1,3 +1,8 @@
+> [!WARNING]
+> This Page will be completely rewritten from scratch
+> Untill then, everything written here is obsolete
+
+
 > [!NOTE]
 > # To-Do:
 > - [ ] have at least 3 types of game modes
