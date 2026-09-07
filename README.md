@@ -1,6 +1,6 @@
 > [!WARNING]
-> This Page will be completely rewritten from scratch
-> Untill then, everything written here is obsolete
+> This page will be completely rewritten from scratch.
+> Until then, everything written here is obsolete.
 
 
 > [!NOTE]
