@@ -8,7 +8,7 @@ It performs best when paired with other classes, but Assault units can also form
 | ----- | ---------- | -------------------- | ------------------ | -------- | --------- |
 | 2     | Assault    | 15cm (6inch)         | 2                  | *5+      | Infantry  |
 
-### GUNS
+## GUNS
 
 | Name             | Class/Power | Range)         | Damage  | 
 | ---------------- | ----------  | -------------- | --------| 
@@ -18,6 +18,6 @@ It performs best when paired with other classes, but Assault units can also form
 | Machine guns     |  Small Arm  | 25cm (10inch)  | 1       |
 | Submachine guns  |  Small Arm  | 20cm (8inch)  | 1       |
 
-### SPECIAL RULES
+## SPECIAL RULES
 
 - they can pass through doors and windows and climb over any low walls
