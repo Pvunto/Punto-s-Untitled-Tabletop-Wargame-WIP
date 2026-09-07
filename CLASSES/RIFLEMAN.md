@@ -9,13 +9,13 @@ They have mainly ranged weapons, with the ability to focus on one or more units 
 | ----- | ---------- | -------------------- | ------------------ | -------- | --------- |
 | 1     | Rifleman   | 15cm (6inch)         | 2                  | 5+       | Infantry  |
 
-### GUNS
+## GUNS
 
 | Name             | Class/Power | Range)         | Damage  | 
 | ---------------- | ----------  | -------------- | --------| 
 | Rifle            |  Small Arm  | 30cm (12inch)  | 2       |
 | Automatic rifles |  Small Arm  | 30cm (12inch)  | 2       |
 
-### SPECIAL RULES
+## SPECIAL RULES
 
-they can pass through doors and windows and climb over any low walls
+- they can pass through doors and windows and climb over any low walls
