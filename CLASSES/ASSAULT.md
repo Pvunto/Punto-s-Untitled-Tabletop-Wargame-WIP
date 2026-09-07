@@ -20,4 +20,4 @@ It performs best when paired with other classes, but Assault units can also form
 
 ### SPECIAL RULES
 
-they can pass through doors and windows and climb over any low walls
+- they can pass through doors and windows and climb over any low walls
