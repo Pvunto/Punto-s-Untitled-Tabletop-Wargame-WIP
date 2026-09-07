@@ -65,6 +65,8 @@ More [here](CLASSES/)
 
 ---
 ## Game Phases
+> [!WARNING]
+> OUTDATED
 
 #### 1) Game Mode Decision
 Players decide who will draw or decide the game mode, the player who will choose the game mode will be the last one to move/attack 
